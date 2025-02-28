@@ -7,7 +7,7 @@
 
 ## 📈 GitHub 통계
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UH3135&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UH3135&layout=compact)
 
 
 <!--
