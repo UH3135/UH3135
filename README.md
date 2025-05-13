@@ -24,10 +24,10 @@
 
 ## 🛠️ Skill Set
 
-Programing Languages: Python, Java, C++, HTML, CSS, Javascript
-Framework/ Library: Langchain, Pytorch, Scikit-learn
-Fullstack: Streamlit, Django, Flask, FastAPI, Vue.js, Sqlite3
-Tools: Docker, Github, bash
+- Programing Languages: Python, Java, C++, HTML, CSS, Javascript
+- Framework / Library: Langchain, Pytorch, Scikit-learn
+- Fullstack: Streamlit, Django, Flask, FastAPI, Vue.js, Sqlite3
+- Tools: Docker, Github, bash
 
 ---
 
